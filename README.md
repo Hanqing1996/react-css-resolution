@@ -7,3 +7,5 @@
 * emotion
 * css-modules
 * radium
+* styled-jsx
+> Next.js 默认支持 styled-jsx 和 css-modules
